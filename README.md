@@ -1,4 +1,5 @@
 # T&S Cellphone Repair & Accessories
+![IMG_3676](https://github.com/user-attachments/assets/4cb0710c-b524-4214-9f90-65ea16a47488)
 
 Welcome to the official website of **T&S Cellphone Repair & Accessories**, your trusted local destination for fast, affordable, and professional cellphone repair services.
 
@@ -25,14 +26,14 @@ At T&S, we understand how important your phone is to your daily life. We special
 | Sunday    | Closed       |
 
 ## 📍 Location
-> *Visit us today or reach out for a quick quote*
-> *Address:* 1114 S Brundidge Street, Troy, Al 36081*
+> *Visit us today or reach out for a quick quote*:
+> *1114 S Brundidge Street, Troy, Al 36081* /
 > *Phone:* (334) 770-2340 
 
 
 ## 🌐 Website
-This site is powered by GitHub Pages and serves as a quick overview of our services and contact options. Visit the live site here:  
-👉 
+This site is powered by GitHub Pages and serves as a quick overview of our services and contact options.   
+ 
 
 ---
 
